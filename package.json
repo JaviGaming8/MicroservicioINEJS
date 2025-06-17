@@ -8,11 +8,19 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "axios": "^1.9.0",
     "dotenv": "^16.5.0",
     "express": "^5.1.0",
     "mysql2": "^3.14.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JaviGaming8/MicroservicioINEJS.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JaviGaming8/MicroservicioINEJS/issues"
+  },
+  "homepage": "https://github.com/JaviGaming8/MicroservicioINEJS#readme",
+  "description": ""
 }
